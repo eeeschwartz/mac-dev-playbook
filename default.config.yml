@@ -29,6 +29,7 @@ homebrew_installed_packages:
   # - hub
   # - httpie
   # - iperf
+  - keybase
   # - libevent
   # - sqlite
   # - mcrypt
